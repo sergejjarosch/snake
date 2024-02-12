@@ -1,4 +1,4 @@
-import java.awt.*;
+
 public class main {
     public static void main(String[] args) {
         java.awt.Point playerPosition = new java.awt.Point(10, 9 );
